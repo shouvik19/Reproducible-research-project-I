@@ -1,7 +1,7 @@
 ---
 title: "Daily Steps Takes - Data Analysis"
 author: "Shouvik Sharma"
-date: "December 30, 2018 "
+date: "December 30, 2018"
 output: html_document
 ---
 
