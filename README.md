@@ -8,7 +8,7 @@ The goal of this assignment is to analyze a set of data and document it so that 
 * A html file corresponding to the rmd file.  (analysis_doc.html)  
 * Plots in the document.  
 
-[HTML file](http://htmlpreview.github.io/?https://github.com/FyzHsn/Reproducible-research-project-1/blob/master/analysis_doc.html) corresponding to the analysis_doc.rmd file.
+[HTML file](http://htmlpreview.github.io/?https://github.com/shouvik19/Reproducible-research-project-I/blob/master/analysis_doc.html) corresponding to the analysis_doc.rmd file.
 
 Below we give a more detailed breakdown of the various components of the assignment.
 ___________
